@@ -11,44 +11,44 @@ body {
 }
 @font-face {
   font-family: popins;
-  src: url("../fonts/Poppins-Light.woff") format("woff");
+  src: url("Poppins-Light.woff") format("woff");
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: popins;
-  src: url("../fonts/Poppins-Regular.woff") format("woff");
+  src: url("Poppins-Regular.woff") format("woff");
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: popins;
-  src: url("../fonts/Poppins-Medium.woff") format("woff");
+  src: url("Poppins-Medium.woff") format("woff");
   font-style: normal;
   font-weight: 500;
 }
 
 @font-face {
   font-family: popins;
-  src: url("../fonts/Poppins-Medium.woff") format("woff");
+  src: url("Poppins-Medium.woff") format("woff");
   font-style: normal;
   font-weight: 600;
 }
 @font-face {
   font-family: popins;
-  src: url("../fonts/Poppins-ExtraBold.woff") format("woff");
+  src: url("Poppins-ExtraBold.woff") format("woff");
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: popins;
-  src: url("../fonts/Poppins-Bold.woff") format("woff");
+  src: url("Poppins-Bold.woff") format("woff");
   font-style: normal;
   font-weight: 800;
 }
 @font-face {
   font-family: popins;
-  src: url("../fonts/Poppins-Black.woff") format("woff");
+  src: url("Poppins-Black.woff") format("woff");
   font-style: normal;
   font-weight: 900;
 }
